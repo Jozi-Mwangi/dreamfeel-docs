@@ -1,15 +1,26 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "index": {
+    "title": "Introduction"
   },
+
+  "starting": "Getting Started",
+  
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contact-Us",
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
+  },
+  
+    "demo": {
+      "title": "Demo",
+      "type": "page"
+    },
+
+  "website" : {
+    "title" : "Web",
+    "type" : "page",
+    "href" : "https://dreamfeel.me",
+    "newWindow":true
   }
 }
