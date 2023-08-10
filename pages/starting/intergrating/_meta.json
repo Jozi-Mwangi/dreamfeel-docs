@@ -1,0 +1,7 @@
+{
+    "html": "HTML",
+    "vanilla":"Vanilla",
+    "react":"React",
+    "angular":"Angular",
+    "svelte":"Svelte"
+}
