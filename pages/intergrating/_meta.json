@@ -2,5 +2,6 @@
     "vanilla":"Vanilla",
     "react":"React",
     "angular":"Angular",
-    "svelte":"Svelte"
+    "svelte":"Svelte",
+    "vue":"Vue"
 }
