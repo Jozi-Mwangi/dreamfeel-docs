@@ -17,8 +17,18 @@ const config: DocsThemeConfig = {
     </>
   ),
 
+  head:(
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="Dreamfeel" />
+      <meta property="og:description" content="Money collections simplified" />
+      <title>Dreamfeel</title>
+      <link rel="icon" href="https://feelpay.vercel.app/_app/immutable/assets/logo-transparent.3d4f4851.png" type="image/x-icon" ></link>
+    </>
+  ),
+
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/Jozi-Mwangi/dreamfeel-docs',
   },
   chat: {
     link: "https://twitter.com/MaStoreKe",
