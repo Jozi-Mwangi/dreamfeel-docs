@@ -14,7 +14,10 @@
   
     "demo": {
       "title": "Demo",
-      "type": "page"
+      "type": "page",
+      "theme": {
+        "sidebar": true
+      }
     },
 
   "website" : {

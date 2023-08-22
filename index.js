@@ -1,5 +1,6 @@
 const { default: Link } = require("next/link");
 
+
 function LandingPage () {
     return (
         <div>
