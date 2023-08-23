@@ -16,7 +16,7 @@
       "title": "Demo",
       "type": "page",
       "theme": {
-        "sidebar": true
+        "sidebar":true
       }
     },
 
